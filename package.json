@@ -1,0 +1,12 @@
+{
+  "name": "elastic-beanstalk-sample-app",
+  "version": "0.0.2",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "main": "app.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
